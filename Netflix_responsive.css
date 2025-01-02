@@ -145,17 +145,21 @@
         text-align: center;
         font-size: 15px;
     }
-    .boxes .ready{
+
+    .boxes .ready {
         font-size: 15px;
     }
-    .body-6 .email-box{
+
+    .body-6 .email-box {
         width: 70%;
     }
-    .parentbox .faqs{
+
+    .parentbox .faqs {
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     }
-    .last .details{
+
+    .last .details {
         padding-left: 25px;
     }
 }
@@ -218,6 +222,23 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.logos {
+    width: 2rem;
+    height: 2rem;
+    border: 1px solid;
+    border-radius: 50%;
+}
+
+.homecontainer {
+    border-radius: 0.5rem;
+    position: absolute;
+    right: 6rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
 }
 
 .netflix-svg {
@@ -631,24 +652,26 @@ body {
     margin-left: 144px;
     padding: 4px;
 }
+
 .newbox {
-      background-color: gray;
-      color: white;
-      padding: 10px;
-      margin-top: 10px;
-      text-align: center;
-      max-height: 0;
-      overflow: hidden;
-      opacity: 0;
-      transition: all 0.5s ease;
-    }
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: all 0.5s ease;
+}
 
-    .newbox.show {
-      max-height: 100px; /* Adjust based on content */
-      opacity: 1;
-    }
+.newbox.show {
+    max-height: 100px;
+    /* Adjust based on content */
+    opacity: 1;
+}
 
-    .newbox.hide {
-      max-height: 0;
-      opacity: 0;
-    }
+.newbox.hide {
+    max-height: 0;
+    opacity: 0;
+}
