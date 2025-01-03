@@ -40,7 +40,7 @@ A responsive Netflix homepage UI clone created using **HTML**, **CSS**, and **Ja
 
 ## GitHub Pages
 
-You can view the live demo of the project [here](https://itsujjwalgoel.github.io/Netflix-clone/.).  
+You can view the live demo of the project [here](https://itsujjwalgoel.github.io/Netflix-UI-clone/).  
 (Note: If the link doesn't work, ensure GitHub Pages is enabled for the repository in the settings.)
 
 ---
