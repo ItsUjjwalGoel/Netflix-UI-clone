@@ -1,4 +1,4 @@
-let a = document.getElementsByClassName("box-1")[0]; // Select the first element with class 'box-1'
+let a = document.getElementsByClassName("box")[5]; // Select the first element with class 'box-1'
 
 a.addEventListener("mouseover", () => {
   // Check if the new element already exists
