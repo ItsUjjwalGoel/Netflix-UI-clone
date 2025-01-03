@@ -26,7 +26,7 @@ A responsive Netflix homepage UI clone created using **HTML**, **CSS**, and **Ja
 
 1. Clone the repository:
    ```bash
-   git clone https://itsujjwalgoel.github.io/Netflix-clone/.
+   git clone https://github.com/itsujjwalgoel/Netflix-UI-clone.git
    ```
 
 2. Navigate to the project directory:
@@ -41,13 +41,16 @@ A responsive Netflix homepage UI clone created using **HTML**, **CSS**, and **Ja
 ## GitHub Pages
 
 You can view the live demo of the project [here](https://itsujjwalgoel.github.io/Netflix-UI-clone/).  
-(Note: If the link doesn't work, ensure GitHub Pages is enabled for the repository in the settings.)
 
 ---
 
-## Screenshots
+## Video
+Here is video Showcasing project.
 
-Add some screenshots of your UI here for better visual representation.
+
+https://github.com/user-attachments/assets/29edaec1-42cb-4609-8794-914fc742da37
+
+
 
 ---
 
