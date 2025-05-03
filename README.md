@@ -67,6 +67,8 @@ https://github.com/user-attachments/assets/29edaec1-42cb-4609-8794-914fc742da37
 Feel free to fork this repository, open issues, and submit pull requests to help improve the project!
 
 ---
+## Disclaimer
+This is an unofficial Netflix UI clone built for learning and demonstration purposes. This project is not associated with or endorsed by Netflix, Inc.
 
 ## License
 
